@@ -1,6 +1,6 @@
 @extends('layout/main')
 
-@section('title', 'Website Munawarah');
+@section('title', 'Website');
 
 @section('container')
     <div class="container">
